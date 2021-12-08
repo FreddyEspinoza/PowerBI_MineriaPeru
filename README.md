@@ -11,7 +11,7 @@
 </p>
 
 <blockquote>
-  <img src="Historico de inversion minera 2010_2020.PNG" alt="">
+  <img src="Archivos/Historico de inversion minera 2010_2020.PNG" alt="">
 </blockquote>
 
 <p>
